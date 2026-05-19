@@ -1,0 +1,36 @@
+{
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2Fuc2Fyb3VkLmNvbSIsImlhdCI6MTc3ODE3MTc5OCwibmJmIjoxNzc4MTcxNzk4LCJleHAiOjE3Nzg3NzY1OTgsImRhdGEiOnsidXNlciI6eyJpZCI6IjQifX19.TR9rw7IOr3gbald9mAKuPXVsAQQg0EcidOTBoDNu_Bo",
+    "user_email": "testuser@ansaroud.com",
+    "user_nicename": "testuser",
+    "user_display_name": "Test User",
+    "user": {
+        "id": 4,
+        "email": "testuser@ansaroud.com",
+        "name": "Test User",
+        "first_name": "Test",
+        "last_name": "User",
+        "photo": "",
+        "shipping": [
+            {
+                "id": "4",
+                "user_id": "4",
+                "label": "other",
+                "first_name": "Kaifi",
+                "last_name": "Ansari",
+                "phone": "9xxxxxxxxx",
+                "email": "x@email.com",
+                "address_1": "Street",
+                "address_2": "Street2",
+                "city": "Delhi",
+                "state": "DL",
+                "postcode": "110001",
+                "country": "IN",
+                "latitude": "26.8600743",
+                "longitude": "80.9059750",
+                "is_default": "0",
+                "created_at": "2025-12-29 17:59:40",
+                "updated_at": "2026-01-02 19:08:46"
+            }
+        ]
+    }
+}

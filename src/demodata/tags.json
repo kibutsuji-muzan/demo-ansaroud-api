@@ -1,0 +1,142 @@
+[
+    {
+        "id": 73,
+        "name": "Agarbatti",
+        "slug": "agarbatti",
+        "description": "",
+        "count": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/tags/73",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/tags"
+                }
+            ]
+        }
+    },
+    {
+        "id": 98,
+        "name": "Featured",
+        "slug": "h_featured",
+        "description": "",
+        "count": 7,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/tags/98",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/tags"
+                }
+            ]
+        }
+    },
+    {
+        "id": 96,
+        "name": "New Arrivals",
+        "slug": "h_new_arrivals",
+        "description": "",
+        "count": 10,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/tags/96",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/tags"
+                }
+            ]
+        }
+    },
+    {
+        "id": 67,
+        "name": "Perfume",
+        "slug": "perfume",
+        "description": "",
+        "count": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/tags/67",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/tags"
+                }
+            ]
+        }
+    },
+    {
+        "id": 97,
+        "name": "Popular",
+        "slug": "h_popular",
+        "description": "",
+        "count": 7,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/tags/97",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/tags"
+                }
+            ]
+        }
+    }
+]

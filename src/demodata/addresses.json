@@ -1,0 +1,45 @@
+{
+    "success": true,
+    "addresses": [
+        {
+            "id": "10",
+            "user_id": "4",
+            "label": "Home",
+            "first_name": "Mohd",
+            "last_name": "Kaifi",
+            "phone": "5555555555",
+            "email": "ansari.kaifi7348@gmail.com",
+            "address_1": "SHOP NO. 1 MARYAM MARKET",
+            "address_2": "SHOP NO. 1 MARYAM MARKET",
+            "city": "Lucknow",
+            "state": "Uttar Pradesh",
+            "postcode": "226003",
+            "country": "IN",
+            "latitude": "26.8600617",
+            "longitude": "80.9060049",
+            "is_default": "0",
+            "created_at": "2026-01-11 19:12:02",
+            "updated_at": "2026-01-11 19:12:02"
+        },
+        {
+            "id": "4",
+            "user_id": "4",
+            "label": "other",
+            "first_name": "Kaifi",
+            "last_name": "Ansari",
+            "phone": "9xxxxxxxxx",
+            "email": "x@email.com",
+            "address_1": "Street",
+            "address_2": "Street2",
+            "city": "Delhi",
+            "state": "DL",
+            "postcode": "110001",
+            "country": "IN",
+            "latitude": "26.8600743",
+            "longitude": "80.9059750",
+            "is_default": "0",
+            "created_at": "2025-12-29 17:59:40",
+            "updated_at": "2026-01-02 19:08:46"
+        }
+    ]
+}

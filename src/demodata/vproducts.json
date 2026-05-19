@@ -1,0 +1,4172 @@
+[
+  {
+    "id": 6893,
+    "name": "TĀHIRA - smooth floral warmth - 12 ml",
+    "slug": "tahira-smooth-floral-warmth-12-ml",
+    "permalink": "https://ansaroud.com/product/tahira-smooth-floral-warmth/?attribute_pa_attar-size=12-ml",
+    "date_created": "2026-03-01T17:11:52",
+    "date_created_gmt": "2026-03-01T17:11:52",
+    "date_modified": "2026-03-01T17:13:10",
+    "date_modified_gmt": "2026-03-01T17:13:10",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "1999",
+    "regular_price": "2499",
+    "sale_price": "1999",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6892,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6896,
+        "date_created": "2026-03-01T17:14:03",
+        "date_created_gmt": "2026-03-01T17:14:03",
+        "date_modified": "2026-03-01T17:14:03",
+        "date_modified_gmt": "2026-03-01T17:14:03",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw.png",
+        "name": "20260301_2021_Image Generation_remix_01kjmy41ddenb8ket53wytj9kw",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "12 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>2,499.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;2,499.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,999.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;1,999.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24858,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24859,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24860,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6893",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6892"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6894,
+    "name": "TĀHIRA - smooth floral warmth - 3 ml",
+    "slug": "tahira-smooth-floral-warmth-3-ml",
+    "permalink": "https://ansaroud.com/product/tahira-smooth-floral-warmth/?attribute_pa_attar-size=3-ml",
+    "date_created": "2026-03-01T17:11:52",
+    "date_created_gmt": "2026-03-01T17:11:52",
+    "date_modified": "2026-03-01T17:12:58",
+    "date_modified_gmt": "2026-03-01T17:12:58",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "349",
+    "regular_price": "599",
+    "sale_price": "349",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6892,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6896,
+        "date_created": "2026-03-01T17:14:03",
+        "date_created_gmt": "2026-03-01T17:14:03",
+        "date_modified": "2026-03-01T17:14:03",
+        "date_modified_gmt": "2026-03-01T17:14:03",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw.png",
+        "name": "20260301_2021_Image Generation_remix_01kjmy41ddenb8ket53wytj9kw",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "3 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 2,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>599.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;599.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>349.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;349.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24842,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24843,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24844,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6894",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6892"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6895,
+    "name": "TĀHIRA - smooth floral warmth - 6 ml",
+    "slug": "tahira-smooth-floral-warmth-6-ml",
+    "permalink": "https://ansaroud.com/product/tahira-smooth-floral-warmth/?attribute_pa_attar-size=6-ml",
+    "date_created": "2026-03-01T17:11:52",
+    "date_created_gmt": "2026-03-01T17:11:52",
+    "date_modified": "2026-03-01T17:12:58",
+    "date_modified_gmt": "2026-03-01T17:12:58",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "999",
+    "regular_price": "1249",
+    "sale_price": "999",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6892,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6896,
+        "date_created": "2026-03-01T17:14:03",
+        "date_created_gmt": "2026-03-01T17:14:03",
+        "date_modified": "2026-03-01T17:14:03",
+        "date_modified_gmt": "2026-03-01T17:14:03",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw.png",
+        "name": "20260301_2021_Image Generation_remix_01kjmy41ddenb8ket53wytj9kw",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2021_Image-Generation_remix_01kjmy41ddenb8ket53wytj9kw-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "6 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 3,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,249.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;1,249.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>999.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;999.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24849,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24850,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24851,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6895",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6892"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6887,
+    "name": "RAFAT - polished, lasting impression. - 12 ml",
+    "slug": "rafat-polished-lasting-impression-12-ml",
+    "permalink": "https://ansaroud.com/product/rafat-polished-lasting-impression/?attribute_pa_attar-size=12-ml",
+    "date_created": "2026-03-01T17:06:35",
+    "date_created_gmt": "2026-03-01T17:06:35",
+    "date_modified": "2026-03-01T17:07:41",
+    "date_modified_gmt": "2026-03-01T17:07:41",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "899",
+    "regular_price": "1149",
+    "sale_price": "899",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6886,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6890,
+        "date_created": "2026-03-01T17:08:10",
+        "date_created_gmt": "2026-03-01T17:08:10",
+        "date_modified": "2026-03-01T17:08:10",
+        "date_modified_gmt": "2026-03-01T17:08:10",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n.png",
+        "name": "20260301_2024_Image Generation_remix_01kjmy86gwewbvp935bs1k8x4n",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "12 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,149.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;1,149.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>899.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;899.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24707,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24708,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24709,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6887",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6886"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6888,
+    "name": "RAFAT - polished, lasting impression. - 3 ml",
+    "slug": "rafat-polished-lasting-impression-3-ml",
+    "permalink": "https://ansaroud.com/product/rafat-polished-lasting-impression/?attribute_pa_attar-size=3-ml",
+    "date_created": "2026-03-01T17:06:35",
+    "date_created_gmt": "2026-03-01T17:06:35",
+    "date_modified": "2026-03-01T17:07:41",
+    "date_modified_gmt": "2026-03-01T17:07:41",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "189",
+    "regular_price": "249",
+    "sale_price": "189",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6886,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6890,
+        "date_created": "2026-03-01T17:08:10",
+        "date_created_gmt": "2026-03-01T17:08:10",
+        "date_modified": "2026-03-01T17:08:10",
+        "date_modified_gmt": "2026-03-01T17:08:10",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n.png",
+        "name": "20260301_2024_Image Generation_remix_01kjmy86gwewbvp935bs1k8x4n",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "3 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 2,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>249.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;249.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>189.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;189.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24714,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24715,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24716,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6888",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6886"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6889,
+    "name": "RAFAT - polished, lasting impression. - 6 ml",
+    "slug": "rafat-polished-lasting-impression-6-ml",
+    "permalink": "https://ansaroud.com/product/rafat-polished-lasting-impression/?attribute_pa_attar-size=6-ml",
+    "date_created": "2026-03-01T17:06:35",
+    "date_created_gmt": "2026-03-01T17:06:35",
+    "date_modified": "2026-03-01T17:07:41",
+    "date_modified_gmt": "2026-03-01T17:07:41",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "349",
+    "regular_price": "599",
+    "sale_price": "349",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6886,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6890,
+        "date_created": "2026-03-01T17:08:10",
+        "date_created_gmt": "2026-03-01T17:08:10",
+        "date_modified": "2026-03-01T17:08:10",
+        "date_modified_gmt": "2026-03-01T17:08:10",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n.png",
+        "name": "20260301_2024_Image Generation_remix_01kjmy86gwewbvp935bs1k8x4n",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2024_Image-Generation_remix_01kjmy86gwewbvp935bs1k8x4n-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "6 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 3,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>599.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;599.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>349.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;349.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24721,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24722,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24723,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6889",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6886"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6881,
+    "name": "SARA - Grace That Endures - 12 ml",
+    "slug": "sara-grace-that-endures-12-ml",
+    "permalink": "https://ansaroud.com/product/sara-grace-that-endures/?attribute_pa_attar-size=12-ml",
+    "date_created": "2026-03-01T17:01:05",
+    "date_created_gmt": "2026-03-01T17:01:05",
+    "date_modified": "2026-03-01T17:02:18",
+    "date_modified_gmt": "2026-03-01T17:02:18",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "1499",
+    "regular_price": "1999",
+    "sale_price": "1499",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6880,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6884,
+        "date_created": "2026-03-01T17:03:07",
+        "date_created_gmt": "2026-03-01T17:03:07",
+        "date_modified": "2026-03-01T17:03:07",
+        "date_modified_gmt": "2026-03-01T17:03:07",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0.png",
+        "name": "20260301_2017_Image Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "12 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,999.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;1,999.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,499.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;1,499.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24576,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24577,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24578,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6881",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6880"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6882,
+    "name": "SARA - Grace That Endures - 3 ml",
+    "slug": "sara-grace-that-endures-3-ml",
+    "permalink": "https://ansaroud.com/product/sara-grace-that-endures/?attribute_pa_attar-size=3-ml",
+    "date_created": "2026-03-01T17:01:05",
+    "date_created_gmt": "2026-03-01T17:01:05",
+    "date_modified": "2026-03-01T17:02:18",
+    "date_modified_gmt": "2026-03-01T17:02:18",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "349",
+    "regular_price": "499",
+    "sale_price": "349",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6880,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6884,
+        "date_created": "2026-03-01T17:03:07",
+        "date_created_gmt": "2026-03-01T17:03:07",
+        "date_modified": "2026-03-01T17:03:07",
+        "date_modified_gmt": "2026-03-01T17:03:07",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0.png",
+        "name": "20260301_2017_Image Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "3 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 2,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>499.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;499.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>349.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;349.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24583,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24584,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24585,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6882",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6880"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6883,
+    "name": "SARA - Grace That Endures - 6 ml",
+    "slug": "sara-grace-that-endures-6-ml",
+    "permalink": "https://ansaroud.com/product/sara-grace-that-endures/?attribute_pa_attar-size=6-ml",
+    "date_created": "2026-03-01T17:01:05",
+    "date_created_gmt": "2026-03-01T17:01:05",
+    "date_modified": "2026-03-01T17:02:18",
+    "date_modified_gmt": "2026-03-01T17:02:18",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "730",
+    "regular_price": "999",
+    "sale_price": "730",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6880,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6884,
+        "date_created": "2026-03-01T17:03:07",
+        "date_created_gmt": "2026-03-01T17:03:07",
+        "date_modified": "2026-03-01T17:03:07",
+        "date_modified_gmt": "2026-03-01T17:03:07",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0.png",
+        "name": "20260301_2017_Image Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2017_Image-Generation_remix_01kjmxwtv3fmnvzv2vs8gqkyg0-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "6 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 3,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>999.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;999.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>730.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;730.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24590,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24591,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24592,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6883",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6880"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6877,
+    "name": "ADL - Strength in Balance - 12 ml",
+    "slug": "adl-strength-in-balance-12-ml",
+    "permalink": "https://ansaroud.com/product/adl-strength-in-balance/?attribute_pa_attar-size=12-ml",
+    "date_created": "2026-03-01T16:58:43",
+    "date_created_gmt": "2026-03-01T16:58:43",
+    "date_modified": "2026-03-01T16:59:29",
+    "date_modified_gmt": "2026-03-01T16:59:29",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "1999",
+    "regular_price": "2499",
+    "sale_price": "1999",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6871,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6852,
+        "date_created": "2026-03-01T16:26:47",
+        "date_created_gmt": "2026-03-01T16:26:47",
+        "date_modified": "2026-03-01T16:26:47",
+        "date_modified_gmt": "2026-03-01T16:26:47",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e.png",
+        "name": "20260301_2013_Image Generation_remix_01kjmxn42qe6br01ee79y6e02e",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "12 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>2,499.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;2,499.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,999.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;1,999.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24476,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24477,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24478,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6877",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6871"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6878,
+    "name": "ADL - Strength in Balance - 3 ml",
+    "slug": "adl-strength-in-balance-3-ml",
+    "permalink": "https://ansaroud.com/product/adl-strength-in-balance/?attribute_pa_attar-size=3-ml",
+    "date_created": "2026-03-01T16:58:43",
+    "date_created_gmt": "2026-03-01T16:58:43",
+    "date_modified": "2026-03-01T16:59:29",
+    "date_modified_gmt": "2026-03-01T16:59:29",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "349",
+    "regular_price": "699",
+    "sale_price": "349",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6871,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6852,
+        "date_created": "2026-03-01T16:26:47",
+        "date_created_gmt": "2026-03-01T16:26:47",
+        "date_modified": "2026-03-01T16:26:47",
+        "date_modified_gmt": "2026-03-01T16:26:47",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e.png",
+        "name": "20260301_2013_Image Generation_remix_01kjmxn42qe6br01ee79y6e02e",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "3 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 2,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>699.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;699.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>349.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;349.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24483,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24484,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24485,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6878",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6871"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6879,
+    "name": "ADL - Strength in Balance - 6 ml",
+    "slug": "adl-strength-in-balance-6-ml",
+    "permalink": "https://ansaroud.com/product/adl-strength-in-balance/?attribute_pa_attar-size=6-ml",
+    "date_created": "2026-03-01T16:58:43",
+    "date_created_gmt": "2026-03-01T16:58:43",
+    "date_modified": "2026-03-01T16:59:29",
+    "date_modified_gmt": "2026-03-01T16:59:29",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "749",
+    "regular_price": "1399",
+    "sale_price": "749",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6871,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6852,
+        "date_created": "2026-03-01T16:26:47",
+        "date_created_gmt": "2026-03-01T16:26:47",
+        "date_modified": "2026-03-01T16:26:47",
+        "date_modified_gmt": "2026-03-01T16:26:47",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e.png",
+        "name": "20260301_2013_Image Generation_remix_01kjmxn42qe6br01ee79y6e02e",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/20260301_2013_Image-Generation_remix_01kjmxn42qe6br01ee79y6e02e-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "6 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 3,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,399.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;1,399.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>749.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;749.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24490,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24491,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24492,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6879",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6871"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6866,
+    "name": "HILAL - The Beginning of Presence - 12 ml",
+    "slug": "hilal-the-beginning-of-presence-12-ml",
+    "permalink": "https://ansaroud.com/product/hilal-the-beginning-of-presence/?attribute_pa_attar-size=12-ml",
+    "date_created": "2026-03-01T16:42:58",
+    "date_created_gmt": "2026-03-01T16:42:58",
+    "date_modified": "2026-03-01T16:46:56",
+    "date_modified_gmt": "2026-03-01T16:46:56",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "999",
+    "regular_price": "1299",
+    "sale_price": "999",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6865,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6869,
+        "date_created": "2026-03-01T16:47:40",
+        "date_created_gmt": "2026-03-01T16:47:40",
+        "date_modified": "2026-03-01T16:47:40",
+        "date_modified_gmt": "2026-03-01T16:47:40",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-3.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-3.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-3-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "12 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,299.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;1,299.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>999.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;999.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24299,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24300,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24301,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6866",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6865"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6867,
+    "name": "HILAL - The Beginning of Presence - 3 ml",
+    "slug": "hilal-the-beginning-of-presence-3-ml",
+    "permalink": "https://ansaroud.com/product/hilal-the-beginning-of-presence/?attribute_pa_attar-size=3-ml",
+    "date_created": "2026-03-01T16:42:58",
+    "date_created_gmt": "2026-03-01T16:42:58",
+    "date_modified": "2026-03-01T16:46:56",
+    "date_modified_gmt": "2026-03-01T16:46:56",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "149",
+    "regular_price": "349",
+    "sale_price": "149",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6865,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6869,
+        "date_created": "2026-03-01T16:47:40",
+        "date_created_gmt": "2026-03-01T16:47:40",
+        "date_modified": "2026-03-01T16:47:40",
+        "date_modified_gmt": "2026-03-01T16:47:40",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-3.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-3.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-3-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "3 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 2,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>349.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;349.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>149.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;149.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24306,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24307,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24308,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6867",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6865"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6868,
+    "name": "HILAL - The Beginning of Presence - 6 ml",
+    "slug": "hilal-the-beginning-of-presence-6-ml",
+    "permalink": "https://ansaroud.com/product/hilal-the-beginning-of-presence/?attribute_pa_attar-size=6-ml",
+    "date_created": "2026-03-01T16:42:58",
+    "date_created_gmt": "2026-03-01T16:42:58",
+    "date_modified": "2026-03-01T16:46:56",
+    "date_modified_gmt": "2026-03-01T16:46:56",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "379",
+    "regular_price": "699",
+    "sale_price": "379",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6865,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6869,
+        "date_created": "2026-03-01T16:47:40",
+        "date_created_gmt": "2026-03-01T16:47:40",
+        "date_modified": "2026-03-01T16:47:40",
+        "date_modified_gmt": "2026-03-01T16:47:40",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-3.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-3.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-3-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-3-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "6 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 3,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>699.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;699.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>379.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;379.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24313,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24314,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24315,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6868",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6865"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6860,
+    "name": "RIDWAAN - Loyalty Is Strength - 12 ml",
+    "slug": "ridwaan-loyalty-is-strength-12-ml",
+    "permalink": "https://ansaroud.com/product/ridwaan-loyalty-is-strength/?attribute_pa_attar-size=12-ml",
+    "date_created": "2026-03-01T16:35:12",
+    "date_created_gmt": "2026-03-01T16:35:12",
+    "date_modified": "2026-03-01T16:36:48",
+    "date_modified_gmt": "2026-03-01T16:36:48",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "1920",
+    "regular_price": "2300",
+    "sale_price": "1920",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6859,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6863,
+        "date_created": "2026-03-01T16:37:20",
+        "date_created_gmt": "2026-03-01T16:37:20",
+        "date_modified": "2026-03-01T16:37:20",
+        "date_modified_gmt": "2026-03-01T16:37:20",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-2.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-2.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-2-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "12 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>2,300.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;2,300.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,920.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;1,920.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24167,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24168,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24169,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6860",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6859"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6861,
+    "name": "RIDWAAN - Loyalty Is Strength - 3 ml",
+    "slug": "ridwaan-loyalty-is-strength-3-ml",
+    "permalink": "https://ansaroud.com/product/ridwaan-loyalty-is-strength/?attribute_pa_attar-size=3-ml",
+    "date_created": "2026-03-01T16:35:12",
+    "date_created_gmt": "2026-03-01T16:35:12",
+    "date_modified": "2026-03-01T16:36:48",
+    "date_modified_gmt": "2026-03-01T16:36:48",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "349",
+    "regular_price": "599",
+    "sale_price": "349",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6859,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6863,
+        "date_created": "2026-03-01T16:37:20",
+        "date_created_gmt": "2026-03-01T16:37:20",
+        "date_modified": "2026-03-01T16:37:20",
+        "date_modified_gmt": "2026-03-01T16:37:20",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-2.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-2.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-2-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "3 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 2,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>599.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;599.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>349.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;349.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24174,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24175,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24176,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6861",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6859"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6862,
+    "name": "RIDWAAN - Loyalty Is Strength - 6 ml",
+    "slug": "ridwaan-loyalty-is-strength-6-ml",
+    "permalink": "https://ansaroud.com/product/ridwaan-loyalty-is-strength/?attribute_pa_attar-size=6-ml",
+    "date_created": "2026-03-01T16:35:12",
+    "date_created_gmt": "2026-03-01T16:35:12",
+    "date_modified": "2026-03-01T16:36:48",
+    "date_modified_gmt": "2026-03-01T16:36:48",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "749",
+    "regular_price": "1198",
+    "sale_price": "749",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6859,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6863,
+        "date_created": "2026-03-01T16:37:20",
+        "date_created_gmt": "2026-03-01T16:37:20",
+        "date_modified": "2026-03-01T16:37:20",
+        "date_modified_gmt": "2026-03-01T16:37:20",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-2.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-2.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-2-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-2-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "6 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 3,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,198.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;1,198.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>749.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;749.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24181,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24182,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24183,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6862",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6859"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6854,
+    "name": "NOORAYN - Where Light Meets - 12 ml",
+    "slug": "noorayn-where-light-meets-12-ml",
+    "permalink": "https://ansaroud.com/product/noorayn-where-light-meets/?attribute_pa_attar-size=12-ml",
+    "date_created": "2026-03-01T16:29:31",
+    "date_created_gmt": "2026-03-01T16:29:31",
+    "date_modified": "2026-03-01T16:31:53",
+    "date_modified_gmt": "2026-03-01T16:31:53",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "2100",
+    "regular_price": "2598",
+    "sale_price": "2100",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6853,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6872,
+        "date_created": "2026-03-01T16:53:05",
+        "date_created_gmt": "2026-03-01T16:53:05",
+        "date_modified": "2026-03-01T16:53:05",
+        "date_modified_gmt": "2026-03-01T16:53:05",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-4.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-4.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-4-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "12 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>2,598.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;2,598.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>2,100.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;2,100.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24032,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24033,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24034,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6854",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6853"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6855,
+    "name": "NOORAYN - Where Light Meets - 3 ml",
+    "slug": "noorayn-where-light-meets-3-ml",
+    "permalink": "https://ansaroud.com/product/noorayn-where-light-meets/?attribute_pa_attar-size=3-ml",
+    "date_created": "2026-03-01T16:29:32",
+    "date_created_gmt": "2026-03-01T16:29:32",
+    "date_modified": "2026-03-01T16:31:53",
+    "date_modified_gmt": "2026-03-01T16:31:53",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "449",
+    "regular_price": "649",
+    "sale_price": "449",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6853,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6872,
+        "date_created": "2026-03-01T16:53:05",
+        "date_created_gmt": "2026-03-01T16:53:05",
+        "date_modified": "2026-03-01T16:53:05",
+        "date_modified_gmt": "2026-03-01T16:53:05",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-4.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-4.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-4-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "3 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 2,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>649.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;649.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>449.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;449.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24039,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24040,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24041,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6855",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6853"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6856,
+    "name": "NOORAYN - Where Light Meets - 6 ml",
+    "slug": "noorayn-where-light-meets-6-ml",
+    "permalink": "https://ansaroud.com/product/noorayn-where-light-meets/?attribute_pa_attar-size=6-ml",
+    "date_created": "2026-03-01T16:29:32",
+    "date_created_gmt": "2026-03-01T16:29:32",
+    "date_modified": "2026-03-01T16:31:53",
+    "date_modified_gmt": "2026-03-01T16:31:53",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "999",
+    "regular_price": "1299",
+    "sale_price": "999",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6853,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6872,
+        "date_created": "2026-03-01T16:53:05",
+        "date_created_gmt": "2026-03-01T16:53:05",
+        "date_modified": "2026-03-01T16:53:05",
+        "date_modified_gmt": "2026-03-01T16:53:05",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-4.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-4.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-4-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-4-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "6 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 3,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,299.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;1,299.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>999.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;999.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 24046,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 24047,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 24048,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6856",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6853"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6849,
+    "name": "Fath - Conquer Everything - 3 ml",
+    "slug": "fath-conquer-everything-3-ml",
+    "permalink": "https://ansaroud.com/product/fath-conquer-everything/?attribute_pa_attar-size=3-ml",
+    "date_created": "2026-03-01T16:24:23",
+    "date_created_gmt": "2026-03-01T16:24:23",
+    "date_modified": "2026-03-01T16:26:15",
+    "date_modified_gmt": "2026-03-01T16:26:15",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "150",
+    "regular_price": "249",
+    "sale_price": "150",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6847,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6876,
+        "date_created": "2026-03-01T16:56:56",
+        "date_created_gmt": "2026-03-01T16:56:56",
+        "date_modified": "2026-03-01T16:56:56",
+        "date_modified_gmt": "2026-03-01T16:56:56",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-5.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-5.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-5-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "3 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>249.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;249.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>150.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;150.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 23905,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 23906,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 23907,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6849",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6847"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6850,
+    "name": "Fath - Conquer Everything - 6 ml",
+    "slug": "fath-conquer-everything-6-ml",
+    "permalink": "https://ansaroud.com/product/fath-conquer-everything/?attribute_pa_attar-size=6-ml",
+    "date_created": "2026-03-01T16:24:23",
+    "date_created_gmt": "2026-03-01T16:24:23",
+    "date_modified": "2026-03-01T16:26:15",
+    "date_modified_gmt": "2026-03-01T16:26:15",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "299",
+    "regular_price": "499",
+    "sale_price": "299",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6847,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6876,
+        "date_created": "2026-03-01T16:56:56",
+        "date_created_gmt": "2026-03-01T16:56:56",
+        "date_modified": "2026-03-01T16:56:56",
+        "date_modified_gmt": "2026-03-01T16:56:56",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-5.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-5.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-5-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "6 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 2,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>499.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;499.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>299.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;299.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 23912,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 23913,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 23914,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6850",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6847"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6848,
+    "name": "Fath - Conquer Everything - 12 ml",
+    "slug": "fath-conquer-everything-12-ml",
+    "permalink": "https://ansaroud.com/product/fath-conquer-everything/?attribute_pa_attar-size=12-ml",
+    "date_created": "2026-03-01T16:24:23",
+    "date_created_gmt": "2026-03-01T16:24:23",
+    "date_modified": "2026-03-01T16:26:15",
+    "date_modified_gmt": "2026-03-01T16:26:15",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "549",
+    "regular_price": "999",
+    "sale_price": "549",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6847,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6876,
+        "date_created": "2026-03-01T16:56:56",
+        "date_created_gmt": "2026-03-01T16:56:56",
+        "date_modified": "2026-03-01T16:56:56",
+        "date_modified_gmt": "2026-03-01T16:56:56",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/03/1-5.png",
+        "name": "1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/03/1-5.png 1024w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/03/1-5-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/03/1-5-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "12 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 3,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>999.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;999.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>549.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;549.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 23898,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 23899,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 23900,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6848",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6847"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6946,
+    "name": "AaMEEN – Eau De Parfum - 12 ml",
+    "slug": "aameen-eau-de-parfum-12-ml",
+    "permalink": "https://ansaroud.com/product/aameen-eau-de-parfum/?attribute_pa_attar-size=12-ml",
+    "date_created": "2026-03-02T12:01:13",
+    "date_created_gmt": "2026-03-02T12:01:13",
+    "date_modified": "2026-03-02T12:03:02",
+    "date_modified_gmt": "2026-03-02T12:03:02",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "1699",
+    "regular_price": "2799",
+    "sale_price": "1699",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6840,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6844,
+        "date_created": "2026-02-24T10:59:46",
+        "date_created_gmt": "2026-02-24T10:59:46",
+        "date_modified": "2026-02-24T10:59:46",
+        "date_modified_gmt": "2026-02-24T10:59:46",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-1.png",
+        "name": "web-1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-1.png 1024w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "12 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>2,799.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;2,799.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,699.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;1,699.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 25653,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 25654,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 25655,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6946",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6840"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6947,
+    "name": "AaMEEN – Eau De Parfum - 3 ml",
+    "slug": "aameen-eau-de-parfum-3-ml",
+    "permalink": "https://ansaroud.com/product/aameen-eau-de-parfum/?attribute_pa_attar-size=3-ml",
+    "date_created": "2026-03-02T12:01:13",
+    "date_created_gmt": "2026-03-02T12:01:13",
+    "date_modified": "2026-03-02T12:03:02",
+    "date_modified_gmt": "2026-03-02T12:03:02",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "449",
+    "regular_price": "699",
+    "sale_price": "449",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6840,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6844,
+        "date_created": "2026-02-24T10:59:46",
+        "date_created_gmt": "2026-02-24T10:59:46",
+        "date_modified": "2026-02-24T10:59:46",
+        "date_modified_gmt": "2026-02-24T10:59:46",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-1.png",
+        "name": "web-1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-1.png 1024w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "3 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 2,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>699.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;699.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>449.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;449.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 25660,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 25661,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 25662,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6947",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6840"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6948,
+    "name": "AaMEEN – Eau De Parfum - 6 ml",
+    "slug": "aameen-eau-de-parfum-6-ml",
+    "permalink": "https://ansaroud.com/product/aameen-eau-de-parfum/?attribute_pa_attar-size=6-ml",
+    "date_created": "2026-03-02T12:01:13",
+    "date_created_gmt": "2026-03-02T12:01:13",
+    "date_modified": "2026-03-02T12:03:02",
+    "date_modified_gmt": "2026-03-02T12:03:02",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "849",
+    "regular_price": "1398",
+    "sale_price": "849",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6840,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6844,
+        "date_created": "2026-02-24T10:59:46",
+        "date_created_gmt": "2026-02-24T10:59:46",
+        "date_modified": "2026-02-24T10:59:46",
+        "date_modified_gmt": "2026-02-24T10:59:46",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-1.png",
+        "name": "web-1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-1.png 1024w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-130x130.png 130w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-1-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "6 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 3,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,398.00</bdi></span></del> <span class=\"screen-reader-text\">Original price was: &#8377;1,398.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>849.00</bdi></span></ins><span class=\"screen-reader-text\">Current price is: &#8377;849.00.</span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 25667,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 25668,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 25669,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6948",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6840"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6818,
+    "name": "Saif Ul Lah – Eau De Parfum - 12 ml",
+    "slug": "saif-ul-lah-eau-de-parfum-12-ml",
+    "permalink": "https://ansaroud.com/product/saif-ul-lah-eau-de-parfum/?attribute_pa_attar-size=12-ml",
+    "date_created": "2026-02-24T09:13:54",
+    "date_created_gmt": "2026-02-24T09:13:54",
+    "date_modified": "2026-02-24T09:15:34",
+    "date_modified_gmt": "2026-02-24T09:15:34",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "1249",
+    "regular_price": "1249",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6802,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6803,
+        "date_created": "2026-02-24T08:51:05",
+        "date_created_gmt": "2026-02-24T08:51:05",
+        "date_modified": "2026-02-24T08:51:05",
+        "date_modified_gmt": "2026-02-24T08:51:05",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-scaled.png",
+        "name": "web-1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-scaled.png 2560w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1024x1024.png 1024w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1536x1536.png 1536w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-2048x2048.png 2048w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-130x130.png 130w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "12 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>1,249.00</bdi></span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 23474,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 23475,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 23476,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6818",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6802"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6820,
+    "name": "Saif Ul Lah – Eau De Parfum - 6 ml",
+    "slug": "saif-ul-lah-eau-de-parfum-6-ml",
+    "permalink": "https://ansaroud.com/product/saif-ul-lah-eau-de-parfum/?attribute_pa_attar-size=6-ml",
+    "date_created": "2026-02-24T09:13:55",
+    "date_created_gmt": "2026-02-24T09:13:55",
+    "date_modified": "2026-02-24T09:15:34",
+    "date_modified_gmt": "2026-02-24T09:15:34",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "849",
+    "regular_price": "849",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6802,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6803,
+        "date_created": "2026-02-24T08:51:05",
+        "date_created_gmt": "2026-02-24T08:51:05",
+        "date_modified": "2026-02-24T08:51:05",
+        "date_modified_gmt": "2026-02-24T08:51:05",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-scaled.png",
+        "name": "web-1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-scaled.png 2560w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1024x1024.png 1024w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1536x1536.png 1536w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-2048x2048.png 2048w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-130x130.png 130w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "6 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 2,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>849.00</bdi></span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 23486,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 23487,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 23488,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6820",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6802"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6819,
+    "name": "Saif Ul Lah – Eau De Parfum - 3 ml",
+    "slug": "saif-ul-lah-eau-de-parfum-3-ml",
+    "permalink": "https://ansaroud.com/product/saif-ul-lah-eau-de-parfum/?attribute_pa_attar-size=3-ml",
+    "date_created": "2026-02-24T09:13:54",
+    "date_created_gmt": "2026-02-24T09:13:54",
+    "date_modified": "2026-02-24T09:15:34",
+    "date_modified_gmt": "2026-02-24T09:15:34",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "449",
+    "regular_price": "449",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 6802,
+    "purchase_note": "",
+    "categories": [],
+    "brands": [],
+    "tags": [],
+    "images": [
+      {
+        "id": 6803,
+        "date_created": "2026-02-24T08:51:05",
+        "date_created_gmt": "2026-02-24T08:51:05",
+        "date_modified": "2026-02-24T08:51:05",
+        "date_modified_gmt": "2026-02-24T08:51:05",
+        "src": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-scaled.png",
+        "name": "web-1",
+        "alt": "",
+        "srcset": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-scaled.png 2560w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-300x300.png 300w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1024x1024.png 1024w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-150x150.png 150w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-768x768.png 768w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-1536x1536.png 1536w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-2048x2048.png 2048w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-600x600.png 600w, https://ansaroud.com/wp-content/uploads/2026/02/web-1-130x130.png 130w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px",
+        "thumbnail": "https://ansaroud.com/wp-content/uploads/2026/02/web-1-300x450.png"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4,
+        "name": "Attar Size",
+        "slug": "pa_attar-size",
+        "option": "3 ml"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 3,
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>449.00</bdi></span>",
+    "related_ids": [],
+    "meta_data": [
+      {
+        "id": 23480,
+        "key": "ecomus_variation_images",
+        "value": ""
+      },
+      {
+        "id": 23481,
+        "key": "_deal_sales_counts",
+        "value": "0"
+      },
+      {
+        "id": 23482,
+        "key": "_deal_quantity",
+        "value": ""
+      }
+    ],
+    "stock_status": "instock",
+    "has_options": false,
+    "post_password": "",
+    "global_unique_id": "",
+    "_links": {
+      "self": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6819",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://ansaroud.com/wp-json/wc/v3/products/6802"
+        }
+      ]
+    }
+  }
+]

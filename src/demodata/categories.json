@@ -1,0 +1,368 @@
+[
+    {
+        "id": 72,
+        "name": "Agarbatti/Incense stick",
+        "slug": "agarbatti-incense-stick",
+        "parent": 95,
+        "description": "",
+        "display": "subcategories",
+        "image": {
+            "id": 6349,
+            "date_created": null,
+            "date_created_gmt": null,
+            "date_modified": null,
+            "date_modified_gmt": null,
+            "src": false,
+            "name": "",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/72",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/95"
+                }
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "name": "AnsarOud Perfume",
+        "slug": "ansaroud-perfume",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 10,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/15",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 90,
+        "name": "Attar/Perfume Oils",
+        "slug": "attar",
+        "parent": 0,
+        "description": "",
+        "display": "products",
+        "image": {
+            "id": 6748,
+            "date_created": "2025-08-31T18:23:35",
+            "date_created_gmt": "2025-08-31T18:23:35",
+            "date_modified": "2025-08-31T18:23:35",
+            "date_modified_gmt": "2025-08-31T18:23:35",
+            "src": "https://ansaroud.com/wp-content/uploads/2025/08/cover-.png",
+            "name": "cover-",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 7,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/90",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 83,
+        "name": "Chypre",
+        "slug": "chypre",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/83",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 94,
+        "name": "Concentrated Oil",
+        "slug": "concentrated",
+        "parent": 90,
+        "description": "",
+        "display": "subcategories",
+        "image": {
+            "id": 6748,
+            "date_created": "2025-08-31T18:23:35",
+            "date_created_gmt": "2025-08-31T18:23:35",
+            "date_modified": "2025-08-31T18:23:35",
+            "date_modified_gmt": "2025-08-31T18:23:35",
+            "src": "https://ansaroud.com/wp-content/uploads/2025/08/cover-.png",
+            "name": "cover-",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 7,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/94",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/90"
+                }
+            ]
+        }
+    },
+    {
+        "id": 85,
+        "name": "Evening / Date Night",
+        "slug": "evening-date-night",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/85",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 84,
+        "name": "Everyday / Office Wear",
+        "slug": "everyday-office-wear",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/84",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 79,
+        "name": "Floral",
+        "slug": "floral",
+        "parent": 0,
+        "description": "",
+        "display": "products",
+        "image": {
+            "id": 6482,
+            "date_created": null,
+            "date_created_gmt": null,
+            "date_modified": null,
+            "date_modified_gmt": null,
+            "src": false,
+            "name": "",
+            "alt": ""
+        },
+        "menu_order": 0,
+        "count": 1,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/79",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 78,
+        "name": "fresh",
+        "slug": "fresh",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 1,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/78",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 82,
+        "name": "Gourmand",
+        "slug": "gourmand",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories/82",
+                    "targetHints": {
+                        "allow": [
+                            "GET",
+                            "POST",
+                            "PUT",
+                            "PATCH",
+                            "DELETE"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://ansaroud.com/wp-json/wc/v3/products/categories"
+                }
+            ]
+        }
+    }
+]
