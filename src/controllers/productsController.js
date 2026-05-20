@@ -127,8 +127,7 @@ exports.productById = async (req, res, next) => {
 
     const baseUrl = getRequestBaseUrl(req);
     response = formatProductAssetUrls(product, baseUrl);
-    // console.log(response);
-    return res.status(200).json();
+    return res.status(200).json(response);
   } catch (err) {
     next(err);
   }
